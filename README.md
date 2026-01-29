@@ -26,7 +26,7 @@ I am a Software Engineer with a passion for building scalable systems and clean 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuocHung0704&show_icons=true&theme=radical" alt="Hung Truong's GitHub Stats" />
+  <img src="(https://github-readme-stats.vercel.app/api?username=QuocHung0704&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)" />
 </p>
 
 ### 🚀 Top Languages
@@ -34,6 +34,7 @@ I am a Software Engineer with a passion for building scalable systems and clean 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocHung0704&layout=compact&theme=radical" alt="Hung Truong's Top Languages" />
 </p>
+
 
 ---
 
