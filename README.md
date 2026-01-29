@@ -23,19 +23,11 @@ I am a Software Engineer with a passion for building scalable systems and clean 
 
 ---
 
-### 📊 GitHub Stats
+### My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats-taupe-iota.vercel.app?user=QuocHung0704&theme=github-dark&fire=67327E)](redirectto:https://github-readme-streak-stats-taupe-iota.vercel.app?user=QuocHung0704&theme=github-dark&fire=67327E)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuocHung0704&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged" alt="Hung Truong's GitHub Stats" />
-</p>
-
-### 🚀 Top Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocHung0704&layout=compact&theme=radical" alt="Hung Truong's Top Languages" />
-</p>
-
-
+### Top Languages
+[![Top Langs](https://github-readme-stats-ashen-ten-66.vercel.app/api/top-langs/?username=QuocHung0704&layout=compact&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353&hide=javascript,html,PHP,CMake&langs_count=8)](https://github.com/DaoNQ1408)
 ---
 
 ### 📫 Connect with me:
