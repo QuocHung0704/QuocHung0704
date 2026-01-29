@@ -1,4 +1,4 @@
-# Hi there, I'm Hưng Trương 👋
+# Hi there, I'm Hung Truong 👋
 
 ### Fullstack Developer 
 📍 **Based in Ho Chi Minh City, Vietnam**
