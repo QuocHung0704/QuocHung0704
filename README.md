@@ -25,7 +25,4 @@ I am a Software Engineer with a passion for building scalable systems and clean 
 
 ### My GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-taupe-iota.vercel.app?user=QuocHung0704&theme=github-dark&fire=67327E)](redirectto:https://github-readme-streak-stats-taupe-iota.vercel.app?user=QuocHung0704&theme=github-dark&fire=67327E)
-
-### Top Languages
-[![Top Langs](https://github-readme-stats-ashen-ten-66.vercel.app/api/top-langs/?username=QuocHung0704&layout=compact&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353&hide=javascript,html,PHP,CMake&langs_count=8)](https://github.com/QuocHung0704)
 ---
