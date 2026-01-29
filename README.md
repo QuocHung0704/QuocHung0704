@@ -26,16 +26,16 @@ I am a Software Engineer with a passion for building scalable systems and clean 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Hung Truong's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QuocHung0704&show_icons=true&theme=radical" alt="Hung Truong's GitHub Stats" />
 </p>
 
 ### 🚀 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Hung Truong's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocHung0704&layout=compact&theme=radical" alt="Hung Truong's Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](YOUR_LINKEDIN_URL) | [Gmail](mailto:truongquochung0704@gmail.com) | [Portfolio](YOUR_PORTFOLIO_URL)
+[Gmail](mailto:truongquochung0704@gmail.com)
