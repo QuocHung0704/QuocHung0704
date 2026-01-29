@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Hưng Trương 👋
 
-<!--
-**QuocHung0704/QuocHung0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Developer 
+📍 **Based in Ho Chi Minh City, Vietnam**
 
-Here are some ideas to get you started:
+I am a Software Engineer with a passion for building scalable systems and clean code. Currently, I focus on developing SaaS platforms and exploring the roadmap to becoming a **Solution Architect**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a **Multi-tenant Coffee Management SaaS** and a **Food Tour Booking System**.
+- ⚡ I have experience acting as a **Scrum Master**, facilitating Agile ceremonies and team productivity.
+- 💬 Ask me about **Spring Boot, Microservices, or Docker**.
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, SQL |
+| **Backend** | Spring Boot 3, Spring Security, Data JPA, Hibernate, RESTful API |
+| **Frontend** | ReactJS, Redux Toolkit, Tailwind CSS |
+| **Database & Caching** | MySQL, PostgreSQL, Redis |
+| **DevOps & Cloud** | Docker, GitHub Actions, AWS, Firebase, Vercel |
+| **Others** | Agile/Scrum, OOP, System Design |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Hung Truong's GitHub Stats" />
+</p>
+
+### 🚀 Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Hung Truong's Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](YOUR_LINKEDIN_URL) | [Gmail](mailto:truongquochung0704@gmail.com) | [Portfolio](YOUR_PORTFOLIO_URL)
