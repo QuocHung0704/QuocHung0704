@@ -7,7 +7,6 @@ I am a Software Engineer with a passion for building scalable systems and clean 
 
 - 🔭 I’m currently working on a **Multi-tenant Coffee Management SaaS** and a **Food Tour Booking System**.
 - ⚡ I have experience acting as a **Scrum Master**, facilitating Agile ceremonies and team productivity.
-- 💬 Ask me about **Spring Boot, Microservices, or Docker**.
 ---
 
 ### 🛠️ Tech Stack & Tools
