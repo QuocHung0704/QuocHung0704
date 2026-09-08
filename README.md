@@ -35,5 +35,3 @@ Software Engineering graduate from FPT University. I build backend services and 
 | **[Beautyskin](https://github.com/haiquanng/beautyskin-client)** | Skincare shop management — front-end | ReactJS, Redux Toolkit, Tailwind |
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=QuocHung0704&show_icons=true&hide_border=true" alt="GitHub stats" />
