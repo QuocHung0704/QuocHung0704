@@ -4,7 +4,7 @@
 
 Software Engineering graduate from FPT University. I build backend services and RESTful APIs with **Java** and **Spring Boot**, and I'm comfortable working across the stack with ReactJS on the front end.
 
-- 💼 Backend (OJT) at **FPT Software**
+- 💼 Backend (OJT) at **FPT Software** (2025)
 - 🌱 Learning more about system design, database optimization, and cloud deployment
 - 📫 truongquochung0704@gmail.com
 
