@@ -4,7 +4,7 @@
 
 Software Engineering graduate from FPT University. I build backend services and RESTful APIs with **Java** and **Spring Boot**, and I'm comfortable working across the stack with ReactJS on the front end.
 
-- 💼 Backend intern (OJT) at **FPT Software** — Movie Theater booking system, also served as Scrum Master
+- 💼 Backend (OJT) at **FPT Software**
 - 🌱 Learning more about system design, database optimization, and cloud deployment
 - 📫 truongquochung0704@gmail.com
 
