@@ -1,27 +1,38 @@
-# Hi there, I'm Hung Truong 👋
+# Hi, I'm Hung Truong 👋
 
-### Fullstack Developer 
-📍 **Based in Ho Chi Minh City, Vietnam**
+### Java Backend Developer — Ho Chi Minh City, Vietnam
 
-I am a Software Engineer with a passion for building scalable systems and clean code. Currently, I focus on developing SaaS platforms and exploring the roadmap to becoming a **Solution Architect**.
+Software Engineering graduate from FPT University. I build backend services and RESTful APIs with **Java** and **Spring Boot**, and I'm comfortable working across the stack with ReactJS on the front end.
 
-- 🔭 I’m currently working on a **Multi-tenant Coffee Management SaaS** and a **Food Tour Booking System**.
-- ⚡ I have experience acting as a **Scrum Master**, facilitating Agile ceremonies and team productivity.
+- 🔭 Currently building a **Multi-tenant Coffee Management SaaS** and an **AI-assisted Food Tour Booking System**
+- 💼 Backend intern (OJT) at **FPT Software** — Movie Theater booking system, also served as Scrum Master
+- 🌱 Learning more about system design, database optimization, and cloud deployment
+- 📫 truongquochung0704@gmail.com
+
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Java, JavaScript, SQL |
-| **Backend** | Spring Boot 3, Spring Security, Data JPA, Hibernate, RESTful API |
-| **Frontend** | ReactJS, Redux Toolkit, Tailwind CSS |
-| **Database & Caching** | MySQL, PostgreSQL, Redis |
-| **DevOps & Cloud** | Docker, GitHub Actions, AWS, Firebase, Vercel |
-| **Others** | Agile/Scrum, OOP, System Design |
+| **Backend** | Spring Boot 3, Spring MVC, Spring Security, Spring Data JPA, Hibernate, RESTful API |
+| **Frontend** | HTML, CSS, ReactJS, Redux Toolkit, Tailwind CSS |
+| **Database & Caching** | PostgreSQL, MySQL, SQL Server, MongoDB, Redis |
+| **DevOps & Cloud** | Docker, GitHub Actions (CI/CD), AWS (EC2, S3), Firebase, Vercel |
+| **Ways of working** | Agile/Scrum, Git/GitHub, OOP, Clean Architecture |
 
 ---
 
-### My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-taupe-iota.vercel.app?user=QuocHung0704&theme=github-dark&fire=67327E)](redirectto:https://github-readme-streak-stats-taupe-iota.vercel.app?user=QuocHung0704&theme=github-dark&fire=67327E)
+### 📌 Featured Projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Coffee Management SaaS](https://github.com/coffee-management-saas/back-end)** | Multi-tenant coffee shop platform — orders, inventory, staff scheduling, subscription billing | Spring Boot, PostgreSQL, Redis, VNPAY/Momo |
+| **[Foodie Tour Booking](https://github.com/foodie-tour-booking-system/Back-End)** | Food tour booking system with an AI assistant built on Spring AI and pgvector | Spring Boot, PostgreSQL, Spring AI, AWS S3 |
+| **[EXE TeamUp](https://github.com/exe-teamup/Back-End)** | Student team-formation platform for university courses | Spring Boot, MySQL, Redis, JWT |
+| **[Beautyskin](https://github.com/haiquanng/beautyskin-client)** | Skincare shop management — front-end | ReactJS, Redux Toolkit, Tailwind |
+
 ---
+
+<img src="https://github-readme-stats.vercel.app/api?username=QuocHung0704&show_icons=true&hide_border=true" alt="GitHub stats" />
